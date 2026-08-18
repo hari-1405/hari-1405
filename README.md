@@ -128,9 +128,14 @@ A Python-based networking project for understanding hosts, ports, services, and 
 
 ## 📊 GitHub Activity
 
-![Hareesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hari-1405\&show_icons=true\&theme=tokyonight\&hide_border=true)
+I’m actively building, learning, and contributing through GitHub.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hari-1405\&layout=compact\&theme=tokyonight\&hide_border=true)
+🔹 Building cybersecurity projects
+🔹 Practicing Data Structures & Algorithms
+🔹 Exploring open-source projects
+🔹 Documenting my learning journey
+
+> **Consistency matters more than contribution graphs. 🚀**
 
 ---
 
